@@ -1,1 +1,2 @@
-Welcome to my GitHub profile!
+Welcome to <my changed area>!
+This is a new line
